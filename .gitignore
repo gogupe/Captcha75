@@ -1,0 +1,19 @@
+# Ignorar archivos sensibles y carpetas de dependencias
+backup.zip
+/vendor/
+/node_modules/
+/.env
+/config.php
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignorar archivos de caché
+/cache/
+
+
+1_bd/
+1_demo/
+2/

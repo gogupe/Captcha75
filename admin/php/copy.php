@@ -1,0 +1,1 @@
+<footer class="main-footer">Copyright &copy; <?php echo date("Y");?>. Sistema de verificación humana desarrollado por Creativos75</a>. Todos los derechos reservados.</footer>
