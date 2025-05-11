@@ -5,3 +5,8 @@ git add .
 git commit -m "Actualizado .gitignore y añadidas carpetas demo y manual_git"
 
 git push
+
+
+Para ver todos los commit
+
+git log
