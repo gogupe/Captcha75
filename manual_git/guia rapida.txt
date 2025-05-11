@@ -1,0 +1,7 @@
+Cada vez que se hace un cambio y quiere grabar los pasos para luego restaurar hacer:
+
+git add .
+
+git commit -m "Actualizado .gitignore y añadidas carpetas demo y manual_git"
+
+git push
