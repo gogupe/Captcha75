@@ -101,7 +101,6 @@
 		});
 	}
 
-
 	function reiniciarCaptcha() {
 		tokenGenerado = false;
 		imagenMostrada = false;
